@@ -1,0 +1,16 @@
+table, th, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid black;
+    width: 40px;
+    font-style: italic;
+    font-style: inherit;
+    font-weight: bold;
+    text-align: center;
+}
+#maio{
+    color: rgb(92, 92, 92);
+    width: 30px;
+}
